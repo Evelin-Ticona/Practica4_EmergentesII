@@ -1,0 +1,5 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\dao\PostDAOoperation.class
+com\emergentes\dao\PostDAO.class
+com\emergentes\modelo\Post.class
